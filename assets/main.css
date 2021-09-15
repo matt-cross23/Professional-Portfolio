@@ -1,0 +1,13 @@
+body{ 
+    background-color: wheat;
+    max-width: fit-content;
+}
+nav {
+text-align: right;
+background-color: #ffe4c4;
+margin: 10px, 20px;
+justify-content: flex-end;
+}
+@media screen and (max-width: 768px){
+
+}
