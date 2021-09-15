@@ -1,1 +1,2 @@
 # Professional-Portfolio
+This project assignment allowed me to further learn and exercise CSS and HTML by creating my own code for a portfolio which will become extremely helpful for the employment process and website building in general. It was good practice for UI design which demands acessibility and starighforward positioning of a website to attract the most viewers. I was faced with challenegs to complete the acceptance critera but this can be seen as an opportunity for improvement and the need to take more time to master CSS and formatting the elements of a website   
